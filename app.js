@@ -1,3 +1,4 @@
+// Construit une salutation personnalisée à partir du nom fourni.
 function saluer(nom) {
     return `Bonjour, ${nom} !`;
 }
